@@ -11,6 +11,6 @@ df = pd.read_csv("students.csv") # Data Frame
 result = pd.concat([df, pd.DataFrame(retrieved_data)], ignore_index=True)
 
 # max
-result = result.groupby("Subject")["Grade"].mean().reset_index(name="Average Grade")
+result = result.groupby("Subject")["Age"].max().reset_index(name="Max Age")
 
-print(result["Average Grade"])
+print(result)
