@@ -15,4 +15,4 @@ result = pd.concat([df, pd.DataFrame(retrieved_data)], ignore_index=True)
 grouped = result.groupby("Subject") #iterator
 
 for group_name, group_content in grouped: # 3 razy
-    print(group_content)
+    print(group_content.sort_values(["Grade", "Age"], ascending=[False, False], ignore_index=True))
