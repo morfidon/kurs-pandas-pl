@@ -10,8 +10,7 @@ df = pd.read_csv("students.csv") # Data Frame
 
 result = pd.concat([df, pd.DataFrame(retrieved_data)], ignore_index=True)
 
+# reset_index -> series -> dataframe - zmieniamy indeks, kolumny beda miec nazwy
+result = result.groupby("Subject")["Grade"].mean().reset_index(name="Average Grade")
 
-
-result = result.groupby("Subject")["Grade"].mean()
-
-print(result)
+print(result["Average Grade"])
