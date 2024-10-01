@@ -19,7 +19,11 @@ result = result.groupby("Subject").agg(
     AverageGrade=("Grade", "mean"),
     MaxAge=("Age", "max"),
     AmountOfStudents=("Name", "count")
-)
+).reset_index()
 
-
+# result = result.rename(columns={
+#     "MaxAge": "Maksymalny Wiek",
+#     "Subject": "Przedmiot"
+# })
+result.columns = ["Subject", "Average Grade", "Max Age", "Amount Of Students"]
 print(result)
