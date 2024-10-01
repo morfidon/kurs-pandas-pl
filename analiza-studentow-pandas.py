@@ -11,5 +11,8 @@ df = pd.read_csv("students.csv") # Data Frame
 result = pd.concat([df, pd.DataFrame(retrieved_data)], ignore_index=True)
 
 
-print(result)
 
+grouped = result.groupby("Subject") #iterator
+
+for group_name, group_content in grouped: # 3 razy
+    print(group_content)
