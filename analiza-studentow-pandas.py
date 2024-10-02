@@ -8,8 +8,15 @@ df["product"] = df["product"].fillna("Unknown")
 df['price'] = df.groupby('product')['price'].transform(lambda series: series.fillna(series.median()))
 #
 #
+#
+
+# Oblicz całkowitą wartość sprzedaży
+df['total'] = df['price'] * df['quantity']
 
 
-# Liczba sprzedaży tygodniowo W - Weekend
 df['date'] = pd.to_datetime(df['date'])
-print(df["date"].dt.to_period("W").value_counts().sort_index())
+
+df['day_of_week'] = df['date'].dt.day_name()
+#wartosc sprzedazy wedlug dni tygodnia
+sale_by_day = df.groupby('day_of_week')['total'].sum()
+print(sale_by_day)
