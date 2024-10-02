@@ -1,0 +1,619 @@
+date,category,product,quantity,price
+2030-01-01,Headphones,,3,251.88
+2030-01-01,Smart Watch,Apple Watch Series 7,4,436.02
+2030-01-01,Tablet,iPad Air,3,601.67
+2030-01-01,Laptop,Dell XPS 13,2,1198.1
+2030-01-01,Headphones,AirPods Pro,1,249.91
+2030-01-01,Smart Watch,Apple Watch Series 7,1,395.25
+2030-01-01,Headphones,Sony WH-1000XM4,3,318.21
+2030-01-01,Headphones,AirPods Pro,,229.93
+2030-01-01,Smart Watch,Apple Watch Series 7,1,425.82
+2030-01-01,Smart Watch,,2,237.84
+2030-01-01,Smart Watch,Fitbit Versa 3,3,228.4
+2030-01-01,Smart Watch,Fitbit Versa 3,1,231.09
+2030-01-02,Tablet,iPad Air,2,620.82
+2030-01-02,Tablet,iPad Air,5,641.14
+2030-01-02,Laptop,MacBook Air,2,
+2030-01-02,Laptop,MacBook Air,2,1194.99
+2030-01-02,Laptop,Dell XPS 13,4,1210.78
+2030-01-02,Laptop,MacBook Air,3,1240.12
+2030-01-02,Smart Watch,Apple Watch Series 7,1,422.15
+2030-01-02,Smart Watch,Apple Watch Series 7,3,418.94
+2030-01-03,Headphones,Sony WH-1000XM4,4,361.43
+2030-01-03,Tablet,Microsoft Surface Go,5,433.62
+2030-01-03,Tablet,iPad Air,4,557.01
+2030-01-03,Headphones,AirPods Pro,1,241.67
+2030-01-03,Headphones,Sony WH-1000XM4,4,332.08
+2030-01-03,Headphones,AirPods Pro,2,260.57
+2030-01-03,Smartphone,Samsung Galaxy S21,1,873.6
+2030-01-03,Smartphone,,4,735.5
+2030-01-03,Smart Watch,Fitbit Versa 3,2,232.72
+2030-01-03,Smartphone,Samsung Galaxy S21,3,808.48
+2030-01-03,Tablet,iPad Air,,631.2
+2030-01-04,Headphones,AirPods Pro,1,274.6
+2030-01-04,Headphones,AirPods Pro,5,271.56
+2030-01-04,Headphones,AirPods Pro,5,265.49
+2030-01-04,Headphones,Sony WH-1000XM4,2,363.05
+2030-01-04,Smartphone,iPhone 13,3,1094.36
+2030-01-04,Headphones,AirPods Pro,3,225.6
+2030-01-04,Laptop,MacBook Air,2,1297.0
+2030-01-04,Laptop,,4,1363.49
+2030-01-04,Smart Watch,Fitbit Versa 3,2,221.51
+2030-01-04,Smart Watch,Fitbit Versa 3,1,247.44
+2030-01-04,Smartphone,Samsung Galaxy S21,2,805.03
+2030-01-04,Smartphone,iPhone 13,3,1031.18
+2030-01-04,Smartphone,Samsung Galaxy S21,5,841.88
+2030-01-05,Headphones,Sony WH-1000XM4,2,371.15
+2030-01-05,Headphones,AirPods Pro,3,226.19
+2030-01-05,Smart Watch,Apple Watch Series 7,4,370.24
+2030-01-05,Laptop,Dell XPS 13,2,
+2030-01-05,Headphones,AirPods Pro,1,266.13
+2030-01-06,Tablet,Microsoft Surface Go,3,433.61
+2030-01-06,Smart Watch,,3,237.79
+2030-01-06,Smart Watch,Apple Watch Series 7,4,387.06
+2030-01-06,Laptop,Dell XPS 13,3,1267.59
+2030-01-06,Laptop,Dell XPS 13,4,1131.74
+2030-01-06,Laptop,Dell XPS 13,5,1182.1
+2030-01-06,Headphones,AirPods Pro,2,242.8
+2030-01-07,Tablet,Microsoft Surface Go,4,393.32
+2030-01-07,Headphones,AirPods Pro,2,228.04
+2030-01-07,Headphones,Sony WH-1000XM4,1,327.75
+2030-01-07,Headphones,Sony WH-1000XM4,3,344.87
+2030-01-07,Headphones,AirPods Pro,5,239.33
+2030-01-07,Tablet,Microsoft Surface Go,4,
+2030-01-07,Tablet,Microsoft Surface Go,3,367.65
+2030-01-07,Headphones,AirPods Pro,2,235.18
+2030-01-08,Headphones,Sony WH-1000XM4,,347.1
+2030-01-08,Laptop,MacBook Air,1,1320.29
+2030-01-08,Tablet,iPad Air,2,592.14
+2030-01-08,Tablet,Microsoft Surface Go,,366.95
+2030-01-08,Smartphone,Samsung Galaxy S21,3,737.8
+2030-01-08,Tablet,Microsoft Surface Go,3,374.26
+2030-01-08,Smartphone,Samsung Galaxy S21,2,818.0
+2030-01-08,Smart Watch,Fitbit Versa 3,4,212.99
+2030-01-08,Smart Watch,Apple Watch Series 7,1,433.39
+2030-01-08,Laptop,MacBook Air,2,1228.84
+2030-01-08,Laptop,Dell XPS 13,1,1205.26
+2030-01-08,Smartphone,,3,
+2030-01-08,Smartphone,iPhone 13,4,901.18
+2030-01-08,Smart Watch,Fitbit Versa 3,3,218.05
+2030-01-08,Smartphone,Samsung Galaxy S21,3,852.81
+2030-01-09,Laptop,MacBook Air,5,1407.82
+2030-01-09,Laptop,MacBook Air,1,1359.25
+2030-01-09,Smart Watch,Fitbit Versa 3,2,231.35
+2030-01-09,Laptop,Dell XPS 13,2,1278.99
+2030-01-09,Smart Watch,,2,239.07
+2030-01-09,Tablet,iPad Air,1,622.45
+2030-01-09,Laptop,MacBook Air,3,1393.07
+2030-01-09,Smartphone,Samsung Galaxy S21,4,786.66
+2030-01-09,Smartphone,Samsung Galaxy S21,5,
+2030-01-09,Headphones,Sony WH-1000XM4,4,364.12
+2030-01-10,Headphones,Sony WH-1000XM4,4,356.08
+2030-01-10,Tablet,iPad Air,5,601.69
+2030-01-10,Smartphone,Samsung Galaxy S21,,868.26
+2030-01-10,Smartphone,Samsung Galaxy S21,,
+2030-01-10,Smartphone,Samsung Galaxy S21,2,843.92
+2030-01-10,Laptop,Dell XPS 13,,1196.63
+2030-01-10,Smartphone,Samsung Galaxy S21,1,741.06
+2030-01-11,Smart Watch,Apple Watch Series 7,,427.93
+2030-01-11,Smartphone,Samsung Galaxy S21,4,869.55
+2030-01-11,Headphones,Sony WH-1000XM4,5,318.1
+2030-01-11,Smart Watch,Apple Watch Series 7,3,403.4
+2030-01-11,Smart Watch,Fitbit Versa 3,3,245.22
+2030-01-11,Tablet,iPad Air,1,
+2030-01-11,Tablet,iPad Air,1,585.35
+2030-01-11,Smart Watch,Apple Watch Series 7,4,
+2030-01-11,Headphones,AirPods Pro,3,244.37
+2030-01-11,Smartphone,iPhone 13,4,1065.97
+2030-01-11,Tablet,Microsoft Surface Go,3,438.74
+2030-01-11,Smartphone,iPhone 13,3,1047.97
+2030-01-11,Laptop,Dell XPS 13,1,1282.99
+2030-01-11,Laptop,MacBook Air,2,1233.9
+2030-01-11,Headphones,AirPods Pro,,263.01
+2030-01-12,Tablet,iPad Air,1,641.62
+2030-01-12,Smart Watch,Apple Watch Series 7,4,414.93
+2030-01-12,Tablet,,4,382.74
+2030-01-12,Smart Watch,Apple Watch Series 7,2,416.54
+2030-01-12,Headphones,AirPods Pro,2,253.63
+2030-01-12,Smart Watch,Fitbit Versa 3,3,239.57
+2030-01-12,Laptop,MacBook Air,5,1222.19
+2030-01-12,Laptop,Dell XPS 13,3,1277.43
+2030-01-12,Tablet,Microsoft Surface Go,5,427.6
+2030-01-12,Smart Watch,Apple Watch Series 7,3,375.55
+2030-01-12,Laptop,Dell XPS 13,3,1226.61
+2030-01-12,Smartphone,Samsung Galaxy S21,4,771.87
+2030-01-12,Headphones,AirPods Pro,2,251.97
+2030-01-12,Smartphone,Samsung Galaxy S21,2,734.58
+2030-01-13,Smart Watch,Fitbit Versa 3,1,252.32
+2030-01-13,Tablet,iPad Air,4,544.5
+2030-01-13,Tablet,Microsoft Surface Go,2,436.63
+2030-01-13,Headphones,Sony WH-1000XM4,1,322.53
+2030-01-13,Laptop,Dell XPS 13,3,1269.25
+2030-01-13,Smartphone,Samsung Galaxy S21,1,831.65
+2030-01-14,Smartphone,iPhone 13,4,1088.98
+2030-01-14,Laptop,MacBook Air,4,1192.51
+2030-01-14,Smartphone,Samsung Galaxy S21,5,876.16
+2030-01-14,Smart Watch,Apple Watch Series 7,3,410.63
+2030-01-14,Smart Watch,Fitbit Versa 3,5,209.78
+2030-01-14,Smartphone,Samsung Galaxy S21,,752.58
+2030-01-14,Headphones,AirPods Pro,5,272.9
+2030-01-14,Tablet,,3,606.36
+2030-01-15,Smart Watch,Fitbit Versa 3,1,226.89
+2030-01-15,Tablet,Microsoft Surface Go,5,378.86
+2030-01-15,Smartphone,iPhone 13,,1006.1
+2030-01-15,Headphones,AirPods Pro,3,229.83
+2030-01-15,Smartphone,iPhone 13,1,1077.35
+2030-01-15,Smartphone,Samsung Galaxy S21,5,875.17
+2030-01-15,Smart Watch,Fitbit Versa 3,2,212.71
+2030-01-15,Smartphone,Samsung Galaxy S21,2,827.0
+2030-01-16,Smart Watch,Apple Watch Series 7,2,405.61
+2030-01-16,Headphones,AirPods Pro,1,225.41
+2030-01-16,Smart Watch,Apple Watch Series 7,2,393.32
+2030-01-16,Tablet,iPad Air,1,633.73
+2030-01-16,Smartphone,,5,919.43
+2030-01-16,Laptop,MacBook Air,1,1292.68
+2030-01-16,Tablet,Microsoft Surface Go,2,379.08
+2030-01-16,Smart Watch,Apple Watch Series 7,4,398.55
+2030-01-16,Laptop,MacBook Air,1,1426.48
+2030-01-16,Headphones,AirPods Pro,2,243.4
+2030-01-16,Laptop,Dell XPS 13,5,1279.76
+2030-01-17,Headphones,AirPods Pro,3,258.68
+2030-01-17,Smart Watch,Fitbit Versa 3,3,223.2
+2030-01-17,Smartphone,iPhone 13,5,907.76
+2030-01-17,Smartphone,Samsung Galaxy S21,3,831.69
+2030-01-17,Smartphone,Samsung Galaxy S21,3,740.64
+2030-01-17,Smart Watch,Apple Watch Series 7,5,409.2
+2030-01-17,Smart Watch,Apple Watch Series 7,1,373.04
+2030-01-17,Tablet,Microsoft Surface Go,2,387.7
+2030-01-17,Smartphone,Samsung Galaxy S21,3,813.66
+2030-01-17,Smart Watch,Apple Watch Series 7,3,407.4
+2030-01-18,Smartphone,Samsung Galaxy S21,1,
+2030-01-18,Smart Watch,Apple Watch Series 7,3,439.54
+2030-01-18,Smart Watch,Apple Watch Series 7,1,376.57
+2030-01-18,Laptop,MacBook Air,1,1282.15
+2030-01-18,Laptop,MacBook Air,4,1275.16
+2030-01-18,Laptop,Dell XPS 13,1,1241.72
+2030-01-18,Headphones,Sony WH-1000XM4,3,367.25
+2030-01-18,Smartphone,iPhone 13,5,1068.87
+2030-01-18,Laptop,Dell XPS 13,4,1104.67
+2030-01-18,Tablet,iPad Air,5,575.08
+2030-01-18,Smartphone,Samsung Galaxy S21,,754.19
+2030-01-18,Smart Watch,,1,211.13
+2030-01-19,Smart Watch,Fitbit Versa 3,1,239.65
+2030-01-19,Tablet,iPad Air,4,567.43
+2030-01-19,Headphones,AirPods Pro,5,263.15
+2030-01-19,Headphones,Sony WH-1000XM4,1,319.65
+2030-01-19,Smartphone,iPhone 13,3,970.34
+2030-01-19,Tablet,iPad Air,5,
+2030-01-19,Laptop,MacBook Air,4,1339.43
+2030-01-19,Smartphone,Samsung Galaxy S21,5,842.44
+2030-01-20,Smart Watch,Apple Watch Series 7,1,433.9
+2030-01-20,Smartphone,Samsung Galaxy S21,5,765.29
+2030-01-20,Smart Watch,Fitbit Versa 3,,207.32
+2030-01-20,Tablet,iPad Air,5,620.68
+2030-01-20,Smartphone,Samsung Galaxy S21,3,803.84
+2030-01-20,Headphones,Sony WH-1000XM4,3,366.32
+2030-01-20,Tablet,Microsoft Surface Go,1,420.14
+2030-01-20,Tablet,Microsoft Surface Go,3,391.43
+2030-01-20,Laptop,Dell XPS 13,5,1302.79
+2030-01-20,Smart Watch,Fitbit Versa 3,4,221.16
+2030-01-20,Headphones,,1,337.01
+2030-01-20,Smart Watch,Apple Watch Series 7,4,404.14
+2030-01-20,Smartphone,iPhone 13,1,985.98
+2030-01-21,Tablet,iPad Air,1,613.07
+2030-01-21,Headphones,Sony WH-1000XM4,3,329.22
+2030-01-21,Smartphone,iPhone 13,5,1099.73
+2030-01-21,Headphones,Sony WH-1000XM4,1,320.35
+2030-01-21,Smart Watch,Apple Watch Series 7,3,426.1
+2030-01-21,Tablet,,3,370.29
+2030-01-21,Tablet,iPad Air,4,615.17
+2030-01-21,Tablet,iPad Air,2,614.71
+2030-01-21,Smartphone,Samsung Galaxy S21,5,802.24
+2030-01-22,Laptop,MacBook Air,4,
+2030-01-22,Smart Watch,Fitbit Versa 3,,232.58
+2030-01-22,Smartphone,Samsung Galaxy S21,2,734.18
+2030-01-22,Tablet,Microsoft Surface Go,2,409.13
+2030-01-22,Headphones,Sony WH-1000XM4,2,320.42
+2030-01-22,Headphones,Sony WH-1000XM4,5,345.12
+2030-01-22,Tablet,iPad Air,3,599.68
+2030-01-22,Laptop,Dell XPS 13,4,1184.54
+2030-01-22,Smart Watch,Apple Watch Series 7,4,433.84
+2030-01-22,Laptop,Dell XPS 13,2,1174.52
+2030-01-23,Tablet,Microsoft Surface Go,1,421.44
+2030-01-23,Tablet,iPad Air,1,639.34
+2030-01-23,Laptop,Dell XPS 13,3,1165.72
+2030-01-23,Smart Watch,Apple Watch Series 7,,424.76
+2030-01-23,Smart Watch,Fitbit Versa 3,5,235.21
+2030-01-23,Headphones,AirPods Pro,1,228.33
+2030-01-23,Headphones,AirPods Pro,5,238.62
+2030-01-23,Smartphone,iPhone 13,1,951.81
+2030-01-23,Tablet,iPad Air,2,628.07
+2030-01-23,Smartphone,iPhone 13,4,978.74
+2030-01-23,Tablet,iPad Air,4,645.38
+2030-01-23,Smart Watch,Fitbit Versa 3,1,250.09
+2030-01-23,Tablet,Microsoft Surface Go,4,427.31
+2030-01-23,Smartphone,Samsung Galaxy S21,2,750.03
+2030-01-23,Tablet,Microsoft Surface Go,5,366.4
+2030-01-24,Laptop,MacBook Air,3,1224.75
+2030-01-24,Laptop,Dell XPS 13,4,1115.22
+2030-01-24,Laptop,Dell XPS 13,2,1251.83
+2030-01-24,Smart Watch,Fitbit Versa 3,1,234.94
+2030-01-24,Headphones,AirPods Pro,4,
+2030-01-24,Tablet,iPad Air,1,551.16
+2030-01-24,Smartphone,Samsung Galaxy S21,4,749.59
+2030-01-25,Smart Watch,Fitbit Versa 3,2,229.42
+2030-01-25,Tablet,Microsoft Surface Go,1,400.27
+2030-01-25,Laptop,Dell XPS 13,3,1172.78
+2030-01-25,Tablet,Microsoft Surface Go,5,368.48
+2030-01-25,Headphones,Sony WH-1000XM4,1,372.97
+2030-01-25,Laptop,MacBook Air,2,1285.28
+2030-01-25,Tablet,iPad Air,4,606.04
+2030-01-25,Smartphone,Samsung Galaxy S21,1,812.33
+2030-01-25,Smart Watch,Fitbit Versa 3,4,242.17
+2030-01-25,Smartphone,iPhone 13,4,960.23
+2030-01-25,Headphones,Sony WH-1000XM4,,363.92
+2030-01-25,Headphones,Sony WH-1000XM4,3,350.97
+2030-01-25,Smartphone,Samsung Galaxy S21,1,774.84
+2030-01-26,Smartphone,,1,985.34
+2030-01-26,Smart Watch,Apple Watch Series 7,5,392.54
+2030-01-26,Laptop,,3,1262.64
+2030-01-26,Headphones,AirPods Pro,2,233.21
+2030-01-26,Headphones,AirPods Pro,1,269.07
+2030-01-26,Smart Watch,Apple Watch Series 7,3,416.23
+2030-01-26,Laptop,MacBook Air,2,1383.87
+2030-01-26,Headphones,Sony WH-1000XM4,2,336.1
+2030-01-26,Tablet,Microsoft Surface Go,5,366.37
+2030-01-26,Smart Watch,Fitbit Versa 3,5,224.02
+2030-01-26,Smartphone,Samsung Galaxy S21,3,782.89
+2030-01-26,Tablet,Microsoft Surface Go,4,370.78
+2030-01-26,Smartphone,Samsung Galaxy S21,1,739.36
+2030-01-26,Laptop,Dell XPS 13,3,1227.72
+2030-01-27,Laptop,MacBook Air,2,1174.12
+2030-01-27,Smart Watch,Apple Watch Series 7,2,415.24
+2030-01-27,Headphones,,1,244.81
+2030-01-27,Smartphone,iPhone 13,5,957.08
+2030-01-27,Smartphone,Samsung Galaxy S21,2,877.38
+2030-01-27,Tablet,iPad Air,5,614.71
+2030-01-27,Smart Watch,Fitbit Versa 3,3,240.32
+2030-01-27,Smartphone,Samsung Galaxy S21,4,867.25
+2030-01-27,Tablet,Microsoft Surface Go,3,364.29
+2030-01-27,Headphones,AirPods Pro,4,243.45
+2030-01-27,Smart Watch,Fitbit Versa 3,1,235.61
+2030-01-27,Smart Watch,Fitbit Versa 3,4,221.83
+2030-01-27,Smartphone,iPhone 13,2,1010.74
+2030-01-27,Smartphone,iPhone 13,1,1086.53
+2030-01-28,Laptop,Dell XPS 13,3,1097.84
+2030-01-28,Smart Watch,Apple Watch Series 7,3,392.97
+2030-01-28,Headphones,Sony WH-1000XM4,4,362.85
+2030-01-28,Smart Watch,Fitbit Versa 3,4,248.12
+2030-01-28,Laptop,Dell XPS 13,2,
+2030-01-28,Smartphone,iPhone 13,5,
+2030-01-28,Smart Watch,Apple Watch Series 7,4,408.91
+2030-01-29,Headphones,Sony WH-1000XM4,1,382.32
+2030-01-29,Smart Watch,Fitbit Versa 3,,215.82
+2030-01-29,Smartphone,iPhone 13,1,1047.69
+2030-01-29,Headphones,Sony WH-1000XM4,1,381.34
+2030-01-29,Tablet,iPad Air,,567.13
+2030-01-29,Smartphone,iPhone 13,3,968.79
+2030-01-29,Laptop,MacBook Air,1,1355.06
+2030-01-29,Laptop,Dell XPS 13,4,1238.12
+2030-01-29,Laptop,MacBook Air,5,
+2030-01-30,Smartphone,Samsung Galaxy S21,1,727.64
+2030-01-30,Laptop,Dell XPS 13,5,1206.03
+2030-01-30,Laptop,MacBook Air,1,
+2030-01-30,Tablet,Microsoft Surface Go,5,394.36
+2030-01-30,Tablet,Microsoft Surface Go,1,
+2030-01-30,Smart Watch,Fitbit Versa 3,4,226.82
+2030-01-30,Smartphone,Samsung Galaxy S21,5,783.46
+2030-01-30,Headphones,Sony WH-1000XM4,5,377.42
+2030-01-30,Smart Watch,Apple Watch Series 7,5,371.4
+2030-01-30,Headphones,Sony WH-1000XM4,5,335.34
+2030-01-30,Tablet,Microsoft Surface Go,3,
+2030-01-30,Smartphone,Samsung Galaxy S21,5,773.55
+2030-01-30,Tablet,iPad Air,4,572.32
+2030-01-31,Laptop,Dell XPS 13,3,1238.58
+2030-01-31,Tablet,,3,651.09
+2030-01-31,Laptop,MacBook Air,3,1384.11
+2030-01-31,Smartphone,iPhone 13,2,1092.03
+2030-01-31,Smart Watch,Apple Watch Series 7,1,
+2030-01-31,Smartphone,Samsung Galaxy S21,1,874.29
+2030-01-31,Smart Watch,Fitbit Versa 3,2,219.39
+2030-01-31,Headphones,Sony WH-1000XM4,3,342.85
+2030-01-31,Tablet,Microsoft Surface Go,2,362.81
+2030-01-31,Tablet,iPad Air,5,542.84
+2030-01-31,Headphones,AirPods Pro,2,246.21
+2030-01-31,Smartphone,,4,847.16
+2030-01-31,Laptop,MacBook Air,2,1332.4
+2030-01-31,Laptop,Dell XPS 13,2,1225.27
+2030-01-31,Smart Watch,Apple Watch Series 7,3,392.62
+2030-02-01,Smart Watch,Fitbit Versa 3,3,217.48
+2030-02-01,Smartphone,Samsung Galaxy S21,5,748.32
+2030-02-01,Smartphone,,3,1078.67
+2030-02-01,Tablet,iPad Air,4,558.14
+2030-02-01,Headphones,Sony WH-1000XM4,1,360.82
+2030-02-01,Tablet,iPad Air,3,639.46
+2030-02-02,Smartphone,iPhone 13,5,1095.5
+2030-02-02,Laptop,Dell XPS 13,1,1273.57
+2030-02-02,Laptop,MacBook Air,1,1340.72
+2030-02-02,Headphones,AirPods Pro,4,
+2030-02-02,Laptop,Dell XPS 13,,1244.52
+2030-02-02,Headphones,AirPods Pro,5,259.59
+2030-02-02,Smartphone,iPhone 13,4,1075.25
+2030-02-02,Smart Watch,Apple Watch Series 7,5,390.23
+2030-02-03,Tablet,iPad Air,4,646.14
+2030-02-03,Tablet,iPad Air,5,652.62
+2030-02-03,Headphones,Sony WH-1000XM4,4,327.93
+2030-02-03,Smartphone,iPhone 13,3,1036.46
+2030-02-03,Tablet,Microsoft Surface Go,5,361.55
+2030-02-03,Smartphone,iPhone 13,5,992.32
+2030-02-03,Smartphone,iPhone 13,4,1079.14
+2030-02-03,Laptop,MacBook Air,3,1170.58
+2030-02-03,Tablet,,4,365.58
+2030-02-04,Smartphone,Samsung Galaxy S21,5,722.94
+2030-02-04,Tablet,iPad Air,2,549.81
+2030-02-04,Tablet,iPad Air,5,656.35
+2030-02-04,Laptop,Dell XPS 13,5,1179.86
+2030-02-04,Smartphone,,4,1003.68
+2030-02-04,Tablet,Microsoft Surface Go,5,432.96
+2030-02-04,Smart Watch,Fitbit Versa 3,5,212.3
+2030-02-04,Smart Watch,Apple Watch Series 7,3,380.26
+2030-02-04,Headphones,AirPods Pro,2,251.79
+2030-02-04,Headphones,AirPods Pro,4,250.47
+2030-02-04,Smartphone,Samsung Galaxy S21,2,833.45
+2030-02-04,Headphones,,,261.32
+2030-02-04,Smart Watch,Apple Watch Series 7,5,377.51
+2030-02-05,Tablet,Microsoft Surface Go,1,396.34
+2030-02-05,Headphones,AirPods Pro,2,245.71
+2030-02-05,Tablet,Microsoft Surface Go,5,421.38
+2030-02-05,Laptop,Dell XPS 13,1,1154.75
+2030-02-05,Smartphone,iPhone 13,1,1016.42
+2030-02-05,Headphones,Sony WH-1000XM4,4,370.16
+2030-02-05,Smartphone,Samsung Galaxy S21,3,866.18
+2030-02-05,Smart Watch,,4,208.25
+2030-02-05,Laptop,Dell XPS 13,,1111.29
+2030-02-05,Tablet,iPad Air,1,544.12
+2030-02-05,Smartphone,Samsung Galaxy S21,4,869.84
+2030-02-06,Smartphone,Samsung Galaxy S21,4,879.19
+2030-02-06,Tablet,iPad Air,5,586.58
+2030-02-06,Laptop,MacBook Air,2,1365.32
+2030-02-06,Tablet,iPad Air,2,555.75
+2030-02-06,Smartphone,Samsung Galaxy S21,1,852.02
+2030-02-06,Smart Watch,Fitbit Versa 3,3,244.03
+2030-02-06,Tablet,Microsoft Surface Go,4,411.27
+2030-02-06,Tablet,Microsoft Surface Go,4,391.77
+2030-02-06,Laptop,MacBook Air,4,
+2030-02-06,Laptop,Dell XPS 13,2,1302.29
+2030-02-06,Headphones,AirPods Pro,4,257.08
+2030-02-07,Smartphone,iPhone 13,3,904.12
+2030-02-07,Headphones,AirPods Pro,3,245.46
+2030-02-07,Laptop,,2,1228.34
+2030-02-07,Tablet,iPad Air,5,585.82
+2030-02-07,Smart Watch,Fitbit Versa 3,4,224.28
+2030-02-07,Laptop,,3,1375.45
+2030-02-07,Headphones,AirPods Pro,1,241.17
+2030-02-07,Smart Watch,Apple Watch Series 7,4,438.73
+2030-02-07,Laptop,MacBook Air,1,1407.62
+2030-02-07,Tablet,iPad Air,3,645.44
+2030-02-07,Smartphone,Samsung Galaxy S21,3,766.33
+2030-02-07,Smartphone,iPhone 13,2,939.47
+2030-02-08,Laptop,Dell XPS 13,4,1317.63
+2030-02-08,Laptop,Dell XPS 13,,1286.62
+2030-02-08,Tablet,iPad Air,2,552.85
+2030-02-08,Smartphone,Samsung Galaxy S21,3,855.66
+2030-02-08,Laptop,MacBook Air,2,1395.57
+2030-02-08,Laptop,MacBook Air,5,1238.04
+2030-02-08,Tablet,,4,546.34
+2030-02-08,Smart Watch,Apple Watch Series 7,4,363.22
+2030-02-08,Smartphone,iPhone 13,4,988.48
+2030-02-08,Smartphone,iPhone 13,1,983.35
+2030-02-08,Tablet,,3,384.95
+2030-02-08,Laptop,MacBook Air,4,1384.37
+2030-02-08,Headphones,Sony WH-1000XM4,1,338.49
+2030-02-08,Headphones,AirPods Pro,1,227.93
+2030-02-08,Smartphone,Samsung Galaxy S21,4,837.65
+2030-02-09,Tablet,iPad Air,4,596.87
+2030-02-09,Smartphone,iPhone 13,5,1056.82
+2030-02-09,Laptop,MacBook Air,1,1207.51
+2030-02-09,Smart Watch,Fitbit Versa 3,4,248.32
+2030-02-09,Smart Watch,Apple Watch Series 7,4,430.78
+2030-02-09,Smartphone,Samsung Galaxy S21,1,850.28
+2030-02-09,Laptop,Dell XPS 13,1,1188.5
+2030-02-09,Smartphone,iPhone 13,3,915.77
+2030-02-10,Tablet,iPad Air,4,635.98
+2030-02-10,Smart Watch,Apple Watch Series 7,3,374.18
+2030-02-10,Smartphone,iPhone 13,4,
+2030-02-10,Headphones,Sony WH-1000XM4,4,331.28
+2030-02-10,Headphones,Sony WH-1000XM4,2,362.22
+2030-02-10,Laptop,Dell XPS 13,2,1142.27
+2030-02-10,Smart Watch,Fitbit Versa 3,1,226.05
+2030-02-10,Laptop,MacBook Air,1,1278.45
+2030-02-10,Headphones,AirPods Pro,3,245.29
+2030-02-10,Laptop,Dell XPS 13,5,1189.33
+2030-02-10,Smartphone,Samsung Galaxy S21,5,854.03
+2030-02-10,Smartphone,Samsung Galaxy S21,3,809.57
+2030-02-11,Laptop,MacBook Air,3,1230.67
+2030-02-11,Smart Watch,Fitbit Versa 3,1,208.54
+2030-02-11,Tablet,iPad Air,,598.54
+2030-02-11,Laptop,MacBook Air,3,1250.81
+2030-02-11,Laptop,Dell XPS 13,4,1134.92
+2030-02-11,Smartphone,Samsung Galaxy S21,3,780.8
+2030-02-11,Smartphone,iPhone 13,4,980.81
+2030-02-11,Headphones,Sony WH-1000XM4,1,378.0
+2030-02-11,Smartphone,Samsung Galaxy S21,3,844.96
+2030-02-11,Smartphone,Samsung Galaxy S21,5,753.99
+2030-02-11,Smartphone,iPhone 13,5,1047.61
+2030-02-11,Smart Watch,Fitbit Versa 3,2,232.3
+2030-02-11,Laptop,MacBook Air,5,1260.73
+2030-02-11,Headphones,Sony WH-1000XM4,5,375.71
+2030-02-12,Smart Watch,Fitbit Versa 3,4,
+2030-02-12,Headphones,AirPods Pro,1,268.81
+2030-02-12,Headphones,AirPods Pro,1,257.54
+2030-02-12,Headphones,AirPods Pro,,256.53
+2030-02-12,Headphones,AirPods Pro,5,231.99
+2030-02-12,Smartphone,,5,937.51
+2030-02-12,Tablet,Microsoft Surface Go,5,399.91
+2030-02-12,Laptop,MacBook Air,4,1355.0
+2030-02-13,Laptop,MacBook Air,4,
+2030-02-13,Headphones,Sony WH-1000XM4,4,348.02
+2030-02-13,Smart Watch,Fitbit Versa 3,4,247.26
+2030-02-13,Smart Watch,Fitbit Versa 3,5,209.47
+2030-02-13,Smartphone,Samsung Galaxy S21,1,756.49
+2030-02-13,Tablet,Microsoft Surface Go,3,389.37
+2030-02-13,Headphones,AirPods Pro,3,249.1
+2030-02-13,Smartphone,iPhone 13,4,1070.26
+2030-02-14,Laptop,Dell XPS 13,3,1091.25
+2030-02-14,Laptop,Dell XPS 13,5,1294.7
+2030-02-14,Tablet,Microsoft Surface Go,4,428.49
+2030-02-14,Smartphone,iPhone 13,5,1037.01
+2030-02-14,Smartphone,Samsung Galaxy S21,2,863.46
+2030-02-14,Smartphone,iPhone 13,5,994.53
+2030-02-14,Laptop,MacBook Air,3,
+2030-02-14,Smartphone,Samsung Galaxy S21,2,837.74
+2030-02-15,Smartphone,Samsung Galaxy S21,3,782.15
+2030-02-15,Smartphone,Samsung Galaxy S21,4,879.79
+2030-02-15,Headphones,,4,380.27
+2030-02-15,Smart Watch,Apple Watch Series 7,1,
+2030-02-15,Laptop,Dell XPS 13,1,1157.65
+2030-02-15,Smartphone,,5,795.53
+2030-02-15,Laptop,Dell XPS 13,5,1290.98
+2030-02-15,Laptop,MacBook Air,2,1252.6
+2030-02-15,Headphones,Sony WH-1000XM4,5,337.09
+2030-02-15,Tablet,Microsoft Surface Go,5,
+2030-02-15,Headphones,AirPods Pro,3,
+2030-02-15,Laptop,MacBook Air,2,1241.94
+2030-02-16,Smart Watch,Apple Watch Series 7,1,436.74
+2030-02-16,Laptop,Dell XPS 13,1,1117.31
+2030-02-16,Smart Watch,Fitbit Versa 3,3,216.59
+2030-02-16,Smartphone,iPhone 13,2,924.81
+2030-02-16,Tablet,,3,408.2
+2030-02-16,Tablet,iPad Air,4,
+2030-02-16,Headphones,,1,260.98
+2030-02-16,Headphones,Sony WH-1000XM4,4,341.94
+2030-02-16,Tablet,Microsoft Surface Go,3,429.6
+2030-02-16,Tablet,iPad Air,4,568.65
+2030-02-16,Smartphone,iPhone 13,2,931.83
+2030-02-16,Laptop,Dell XPS 13,3,1080.14
+2030-02-16,Laptop,MacBook Air,5,1300.21
+2030-02-16,Smartphone,Samsung Galaxy S21,3,743.8
+2030-02-16,Smart Watch,Apple Watch Series 7,2,395.68
+2030-02-17,Smart Watch,Apple Watch Series 7,3,439.67
+2030-02-17,Laptop,Dell XPS 13,3,1314.5
+2030-02-17,Smart Watch,Fitbit Versa 3,,223.78
+2030-02-17,Laptop,MacBook Air,1,1423.85
+2030-02-17,Smartphone,Samsung Galaxy S21,4,781.33
+2030-02-18,Smartphone,Samsung Galaxy S21,3,726.77
+2030-02-18,Headphones,Sony WH-1000XM4,2,322.69
+2030-02-18,Smartphone,Samsung Galaxy S21,,864.95
+2030-02-18,Smart Watch,Fitbit Versa 3,4,240.05
+2030-02-18,Headphones,,1,259.33
+2030-02-19,Laptop,,5,1282.48
+2030-02-19,Laptop,Dell XPS 13,3,
+2030-02-19,Headphones,AirPods Pro,4,263.62
+2030-02-19,Tablet,iPad Air,3,567.51
+2030-02-19,Smart Watch,Apple Watch Series 7,3,403.01
+2030-02-19,Headphones,Sony WH-1000XM4,3,339.39
+2030-02-19,Smart Watch,Apple Watch Series 7,2,420.26
+2030-02-19,Headphones,Sony WH-1000XM4,4,383.67
+2030-02-19,Smart Watch,Fitbit Versa 3,,243.63
+2030-02-19,Smartphone,iPhone 13,5,1026.54
+2030-02-19,Smart Watch,Fitbit Versa 3,2,239.04
+2030-02-19,Smart Watch,Apple Watch Series 7,5,409.65
+2030-02-19,Headphones,AirPods Pro,5,236.6
+2030-02-20,Smart Watch,Fitbit Versa 3,3,220.63
+2030-02-20,Tablet,iPad Air,2,608.76
+2030-02-20,Smart Watch,Apple Watch Series 7,4,374.28
+2030-02-20,Smart Watch,Apple Watch Series 7,2,393.88
+2030-02-20,Smartphone,,3,980.57
+2030-02-20,Headphones,AirPods Pro,1,267.66
+2030-02-20,Smartphone,Samsung Galaxy S21,5,728.81
+2030-02-20,Smartphone,iPhone 13,1,960.89
+2030-02-20,Smart Watch,Fitbit Versa 3,3,234.92
+2030-02-20,Headphones,Sony WH-1000XM4,3,321.98
+2030-02-20,Smartphone,iPhone 13,,964.04
+2030-02-20,Smart Watch,Fitbit Versa 3,1,234.74
+2030-02-20,Laptop,Dell XPS 13,3,1243.57
+2030-02-21,Smartphone,Samsung Galaxy S21,5,787.75
+2030-02-21,Smart Watch,Apple Watch Series 7,1,417.1
+2030-02-21,Headphones,Sony WH-1000XM4,4,339.97
+2030-02-21,Tablet,Microsoft Surface Go,3,373.6
+2030-02-21,Headphones,Sony WH-1000XM4,2,323.54
+2030-02-21,Laptop,Dell XPS 13,2,1280.9
+2030-02-21,Smart Watch,Fitbit Versa 3,3,212.11
+2030-02-21,Laptop,MacBook Air,4,1232.55
+2030-02-21,Smart Watch,Apple Watch Series 7,1,378.15
+2030-02-22,Tablet,Microsoft Surface Go,5,383.3
+2030-02-22,Headphones,Sony WH-1000XM4,2,374.37
+2030-02-22,Smart Watch,Apple Watch Series 7,2,369.38
+2030-02-22,Headphones,AirPods Pro,5,231.57
+2030-02-22,Smart Watch,Apple Watch Series 7,1,
+2030-02-22,Laptop,Dell XPS 13,3,1135.09
+2030-02-22,Laptop,MacBook Air,1,1228.21
+2030-02-23,Smartphone,Samsung Galaxy S21,5,782.01
+2030-02-23,Laptop,Dell XPS 13,5,1107.35
+2030-02-23,Tablet,iPad Air,1,549.52
+2030-02-23,Smartphone,Samsung Galaxy S21,3,878.38
+2030-02-23,Laptop,Dell XPS 13,5,1106.51
+2030-02-23,Headphones,AirPods Pro,3,251.58
+2030-02-23,Tablet,Microsoft Surface Go,,383.33
+2030-02-24,Smartphone,iPhone 13,1,
+2030-02-24,Tablet,Microsoft Surface Go,2,388.59
+2030-02-24,Laptop,Dell XPS 13,5,1151.99
+2030-02-24,Tablet,iPad Air,1,
+2030-02-24,Tablet,iPad Air,4,628.57
+2030-02-24,Smart Watch,Apple Watch Series 7,5,366.35
+2030-02-24,Tablet,Microsoft Surface Go,2,385.27
+2030-02-24,Tablet,iPad Air,2,630.71
+2030-02-25,Laptop,Dell XPS 13,1,1224.79
+2030-02-25,Smart Watch,Apple Watch Series 7,2,
+2030-02-25,Laptop,MacBook Air,1,1300.89
+2030-02-25,Smart Watch,Fitbit Versa 3,5,220.54
+2030-02-25,Smartphone,iPhone 13,3,968.18
+2030-02-25,Laptop,MacBook Air,3,1263.24
+2030-02-25,Smartphone,Samsung Galaxy S21,,730.88
+2030-02-25,Smart Watch,Apple Watch Series 7,1,380.66
+2030-02-25,Smartphone,iPhone 13,3,958.34
+2030-02-26,Tablet,iPad Air,5,574.98
+2030-02-26,Headphones,AirPods Pro,,264.76
+2030-02-26,Laptop,Dell XPS 13,2,1272.02
+2030-02-26,Laptop,MacBook Air,2,
+2030-02-26,Tablet,iPad Air,1,574.65
+2030-02-26,Laptop,Dell XPS 13,1,1280.79
+2030-02-26,Smartphone,iPhone 13,1,969.25
+2030-02-26,Laptop,Dell XPS 13,1,1293.54
+2030-02-26,Smart Watch,Apple Watch Series 7,5,409.76
+2030-02-26,Headphones,AirPods Pro,5,251.89
+2030-02-26,Laptop,MacBook Air,,1264.73
+2030-02-26,Smartphone,Samsung Galaxy S21,3,788.48
+2030-02-26,Laptop,MacBook Air,5,1243.37
+2030-02-26,Smartphone,Samsung Galaxy S21,4,879.91
+2030-02-27,Smartphone,iPhone 13,4,
+2030-02-27,Smartphone,Samsung Galaxy S21,4,849.44
+2030-02-27,Headphones,AirPods Pro,5,244.59
+2030-02-27,Smart Watch,Apple Watch Series 7,4,
+2030-02-27,Laptop,,1,1291.46
+2030-02-27,Smartphone,Samsung Galaxy S21,3,853.12
+2030-02-27,Tablet,iPad Air,1,644.62
+2030-02-27,Smart Watch,,1,225.59
+2030-02-27,Headphones,AirPods Pro,1,262.46
+2030-02-28,Smart Watch,Apple Watch Series 7,1,411.16
+2030-02-28,Tablet,iPad Air,,601.63
+2030-02-28,Headphones,Sony WH-1000XM4,5,355.92
+2030-02-28,Laptop,MacBook Air,4,1349.42
+2030-02-28,Smartphone,Samsung Galaxy S21,2,847.2
+2030-02-28,Tablet,,3,439.31
+2030-02-28,Smartphone,iPhone 13,5,983.54
+2030-02-28,Smart Watch,Apple Watch Series 7,4,420.38
+2030-02-28,Headphones,Sony WH-1000XM4,1,323.15
+2030-02-28,Laptop,MacBook Air,4,1218.79
+2030-03-01,Smart Watch,Fitbit Versa 3,2,209.78
+2030-03-01,Tablet,Microsoft Surface Go,3,395.65
+2030-03-01,Smart Watch,Fitbit Versa 3,3,238.46
+2030-03-01,Tablet,Microsoft Surface Go,1,380.02
+2030-03-01,Smart Watch,Apple Watch Series 7,2,361.75
+2030-03-01,Laptop,MacBook Air,4,1197.27
+2030-03-01,Tablet,Microsoft Surface Go,4,439.94
+2030-03-01,Laptop,Dell XPS 13,3,1149.12
+2030-03-01,Tablet,iPad Air,4,
+2030-03-01,Smartphone,Samsung Galaxy S21,5,817.27
+2030-03-01,Laptop,MacBook Air,5,1350.26
+2030-03-01,Tablet,iPad Air,3,566.91
