@@ -13,9 +13,7 @@ df = pd.read_csv("students.csv") # Data Frame
 df = pd.concat([df, pd.DataFrame(retrieved_data)], ignore_index=True)
 
 
-# loc (etykietach) oraz iloc (integer)
-
-# print(100 - df.sort_values(by="Grade", ascending=False).iloc[5:10, 1])
-# print(100 - df.sort_values(by="Grade", ascending=False).iloc[:5, 1])
-print(df.sort_values(by="Grade", ascending=False).loc[:5, "Age"])
-
+# loc (etykietach) oraz iloc (integer) - to do wyborow wielu elementow
+# at                    iat (integer) - do pojedynczych wyborow - bo szybsze
+print(df)
+print(df.iat[0, 0])
