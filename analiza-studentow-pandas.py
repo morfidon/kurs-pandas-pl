@@ -24,4 +24,7 @@ sale_by_day.index = pd.Categorical(sale_by_day.index, categories=day_order, orde
 
 sale_by_day = sale_by_day.sort_index()
 
-print(sale_by_day)
+plt.figure(figsize=(16, 9))
+sale_by_day.plot(kind='pie', autopct='%1.1f%%')
+plt.title('Wartość sprzedaży według dni tygodnia')
+plt.show()
