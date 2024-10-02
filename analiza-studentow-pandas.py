@@ -4,8 +4,8 @@ df = pd.read_csv("electronics_store_sales.csv")
 
 df["product"] = df["product"].fillna("Unknown")
 
-product_counts = df["product"].value_counts(dropna=False)
-quantity_sold = df.groupby("product")["quantity"].sum()
+product_counts = df["product"].value_counts(dropna=False).astype(int)
+quantity_sold = df.groupby("product")["quantity"].sum().astype(int)
 print(product_counts)
 print(quantity_sold)
 
