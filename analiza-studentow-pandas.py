@@ -10,6 +10,6 @@ df['price'] = df.groupby('product')['price'].transform(lambda series: series.fil
 #
 
 
-# Dzienna częstotliwość sprzedaży
+# Liczba sprzedaży tygodniowo W - Weekend
 df['date'] = pd.to_datetime(df['date'])
-print(df["date"].value_counts().sort_index())
+print(df["date"].dt.to_period("W").value_counts().sort_index())
