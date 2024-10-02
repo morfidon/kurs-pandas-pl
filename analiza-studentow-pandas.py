@@ -19,4 +19,9 @@ df['date'] = pd.to_datetime(df['date'])
 df['day_of_week'] = df['date'].dt.day_name()
 #wartosc sprzedazy wedlug dni tygodnia
 sale_by_day = df.groupby('day_of_week')['total'].sum()
+day_order = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+sale_by_day.index = pd.Categorical(sale_by_day.index, categories=day_order, ordered=True)
+
+sale_by_day = sale_by_day.sort_index()
+
 print(sale_by_day)
