@@ -21,6 +21,5 @@ df['date'] = pd.to_datetime(df['date'])
 df['month'] = df['date'].dt.to_period('M')
 
 multi_index = df.groupby(['month', 'product'])['total_sales'].sum()
-top_3_products = multi_index.reset_index()
-# print(top_3_products.groupby('month')[['product', 'total_sales']].apply(lambda x: x.nlargest(3, 'total_sales')))
-print(top_3_products.groupby('month').apply(lambda x: x.nlargest(3, 'total_sales'), include_groups=False))
+
+print(multi_index.unstack().to_html())
