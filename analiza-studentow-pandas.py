@@ -11,14 +11,13 @@ df['price'] = df.groupby('product')['price'].transform(lambda series: series.fil
 #
 
 # Oblicz całkowitą wartość sprzedaży
-df['total'] = df['price'] * df['quantity']
+df['total_sales'] = df['price'] * df['quantity']
 
 # Konwersja daty do formatu daty
 df['date'] = pd.to_datetime(df['date'])
 
-# Najlepsza sprzedaż (kiedy)
+# Grupowanie danych według miesiąca i produktu
 
-print(df.groupby('date')['total'].sum().idxmax(), df.groupby('date')['total'].sum().max())
+df['month'] = df['date'].dt.to_period('M')
 
-# Najgorsza sprzedaż (kiedy)
-print(df.groupby('date')['total'].sum().idxmin(), df.groupby('date')['total'].sum().min())
+print(df.groupby(['month', 'product'])['total_sales'].sum())
