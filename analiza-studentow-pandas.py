@@ -20,4 +20,6 @@ df['date'] = pd.to_datetime(df['date'])
 
 df['month'] = df['date'].dt.to_period('M')
 
-print(df.groupby(['month', 'product'])['total_sales'].sum())
+multi_index = df.groupby(['month', 'product'])['total_sales'].sum()
+
+print(multi_index.loc['2030-02'])
