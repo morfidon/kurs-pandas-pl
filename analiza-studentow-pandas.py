@@ -13,18 +13,19 @@ df['price'] = df.groupby('product')['price'].transform(lambda series: series.fil
 # Oblicz całkowitą wartość sprzedaży
 df['total'] = df['price'] * df['quantity']
 
-
+# Konwersja daty do formatu daty
 df['date'] = pd.to_datetime(df['date'])
 
-df['day_of_week'] = df['date'].dt.day_name()
-#wartosc sprzedazy wedlug dni tygodnia
-sale_by_day = df.groupby('day_of_week')['total'].sum()
-day_order = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
-sale_by_day.index = pd.Categorical(sale_by_day.index, categories=day_order, ordered=True)
+# Porównanie sprzedaży między miesiącami w procentach
+df['month'] = df['date'].dt.to_period('M')
+df_monthly_sales = df.groupby('month')['total'].sum()
 
-sale_by_day = sale_by_day.sort_index()
 
-plt.figure(figsize=(16, 9))
-sale_by_day.plot(kind='pie', autopct='%1.1f%%')
-plt.title('Wartość sprzedaży według dni tygodnia')
-plt.show()
+# Sprzedaż miesięczna (ile procent jest odpowiedzielne za sprzedaż w danym miesiącu)
+
+
+#
+df_monthly_sales_percent = df_monthly_sales.pct_change() * 100
+print(df_monthly_sales_percent)
+#NaN - Not Available Number
+
