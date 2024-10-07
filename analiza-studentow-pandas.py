@@ -16,18 +16,9 @@ df['total'] = df['price'] * df['quantity']
 # Konwersja daty do formatu daty
 df['date'] = pd.to_datetime(df['date'])
 
-# Porównanie sprzedaży między miesiącami w procentach
-df['month'] = df['date'].dt.to_period('M')
-df_monthly_sales = df.groupby('month')['total'].sum()
+# Najlepsza sprzedaż (kiedy)
 
+print(df.groupby('date')['total'].sum().idxmax(), df.groupby('date')['total'].sum().max())
 
-#  Wizualizacja udziału sprzedaży miesięcznej za pomocą wykresu kołowego
-
-df_monthly_sales.plot(figsize=(16, 9), kind="pie", autopct="%1.1f%%", title="Sales by Month")
-plt.show()
-
-#
-df_monthly_sales_percent = df_monthly_sales.pct_change() * 100
-print(df_monthly_sales_percent)
-#NaN - Not Available Number
-
+# Najgorsza sprzedaż (kiedy)
+print(df.groupby('date')['total'].sum().idxmin(), df.groupby('date')['total'].sum().min())
