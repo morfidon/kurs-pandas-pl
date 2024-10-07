@@ -21,8 +21,10 @@ df['month'] = df['date'].dt.to_period('M')
 df_monthly_sales = df.groupby('month')['total'].sum()
 
 
-# Sprzedaż miesięczna (ile procent jest odpowiedzielne za sprzedaż w danym miesiącu)
+#  Wizualizacja udziału sprzedaży miesięcznej za pomocą wykresu kołowego
 
+df_monthly_sales.plot(figsize=(16, 9), kind="pie", autopct="%1.1f%%", title="Sales by Month")
+plt.show()
 
 #
 df_monthly_sales_percent = df_monthly_sales.pct_change() * 100
